@@ -2,7 +2,7 @@
 
 Collected samples from internet of typical patterns solved with modern css:
 
-#### Bootstrap
+## Bootstrap
 
 - Author: Ohans Emmanuel
 - Source: https://medium.freecodecamp.org/bootstrap-4-everything-you-need-to-know-c750991f6784
@@ -15,4 +15,9 @@ Things I learn:
 - Spacing utility classes: https://getbootstrap.com/docs/4.0/utilities/spacing/
 - Every row is a `flex-container` (utility classes: `order`)
 - Spash screen: `.fill-viewport { min-height: 100vh; }`
+
+## Flexbox
+
+- Author: Ohans Emmanuel
+- Source: https://medium.freecodecamp.org/the-ultimate-guide-to-flexbox-learning-through-examples-8c90248d4676
 
